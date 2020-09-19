@@ -1,0 +1,10 @@
+"D:\clion\CLion 2019.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\c++_studying\border
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV: D:/opencv/opencv/mingw64/install (found version "3.4.9") 
+-- Found OpenCV 3.4.9 in D:/opencv/opencv/mingw64/install/x64/mingw/lib
+-- You might need to add D:/opencv/opencv/mingw64/install/x64/mingw/bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/c++_studying/border/cmake-build-debug

@@ -1,0 +1,3 @@
+"D:\clion\CLion 2019.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\match_template.dir/objects.a
+D:\clion\mingw64\bin\ar.exe cr CMakeFiles\match_template.dir/objects.a @CMakeFiles\match_template.dir\objects1.rsp
+D:\clion\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\match_template.dir/objects.a -Wl,--no-whole-archive  -o match_template.exe -Wl,--out-implib,libmatch_template.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\match_template.dir\linklibs.rsp
